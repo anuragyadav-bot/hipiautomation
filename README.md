@@ -1,4 +1,6 @@
 # hipiautomation(IM NEWBII)
+IF YOU WANT TO CONTINUE THE CONVERSATION OR USE YOUR ACCOUNT KINDLY VISIT PI  WEBSITE AND GO TO INSPECT MODE->application>storage>cookies and then copy the host session value and paste in the code 
+
 hipi automation using request module
 
 
