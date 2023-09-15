@@ -8,7 +8,7 @@ def cookie_generator():
     driver = uc.Chrome(headless=True,driver_executable_path='DataBase\chromedriver.exe')
     with driver:
         driver.get('https://pi.ai/talk')
-        driver.add_cookie({'name' : '__Host-session', 'value' : 'g8Vo8k4ZPnriKHGwHTko7'})
+        driver.add_cookie({'name' : '__Host-session', 'value' : 'ENTER YOUR HOST SESSION VALUE HERE IF YOU WANT TO CONTINUE THE CONVERSATION'})
         driver.refresh()
         cookies = driver.get_cookies()
         cookie_data = cookies
