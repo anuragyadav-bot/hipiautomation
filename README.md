@@ -1,2 +1,7 @@
-# hipiautomation
+# hipiautomation(IM NEWBII)
 hipi automation using request module
+
+
+
+AS CFBM VALUE OF HIPI AUTOMATICALLY CHANGES I HAVE CREATED A FUNCTION TO GET THE COOKIES EVERYTIME
+JUST COPY THE CODE AND ENJOY
